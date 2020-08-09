@@ -1,0 +1,4 @@
+ThumbValueSlider(value: $currentValue, range: 0...31 , step:3 ,  label: "xxx",  asInteger: true)
+ThumbValueSlider(value: $currentValue2, range: 1...31, step: 3 ,textColor: Color.blue, accentColor: Color.blue, asInteger: true)
+ThumbValueSlider(value: $currentValue3, range: 1...31 ,step: 0.5 , accentColor: Color.green, unselectedColor: Color.blue)
+ThumbValueSlider(value: $currentValue4, range: 1...31.5 , step: 2, textColor: Color.yellow, accentColor: Color.yellow)
